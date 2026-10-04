@@ -4,27 +4,27 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 8924571852
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+SHORT_URL = "shortxlinks.com" # shortner url 
+SHORT_API = "1ab8f9226671c3ea4da75be8c6f6ac012e0a9a09" 
+SHORT_TUT = "https://t.me/How_To_Open_Links_Guide/10"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+TOKEN = "8850532765:AAFohKeJYmVdlvzfvEEoNDh3UUYblrMVtDs"
+API_ID = "39020336"
+API_HASH = "b6b6742ac6ad6936dfc88caeac95b7a4"
 WORKERS = 5
 
-DB_URI = "mongodb"
+DB_URI = "mongodb+srv://VishnuJs:sfphtBLg@cluster0.lku9w7d.mongodb.net/?appName=Cluster0"
 DB_NAME = "yato"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1004432919363, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =    # just put channel id dont add ""
+DB_CHANNEL = -1004324248653   # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
@@ -33,7 +33,7 @@ DB_CHANNEL =    # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [7357122047, 8882608438]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True
