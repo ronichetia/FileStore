@@ -8,8 +8,8 @@ OWNER_ID = 8924571852
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linksterr.com" # shortner url 
-SHORT_API = "lnk_AGZiKk3sHyCfe9lA4sAqL9NVZVmFiz6Cma9KkBEQ" 
+SHORT_URL = "shortxlinks.com" # shortner url 
+SHORT_API = "1ab8f9226671c3ea4da75be8c6f6ac012e0a9a09" 
 SHORT_TUT = "https://t.me/How_To_Open_Links_Guide/10"
 
 # Bot Configuration
