@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/How_To_Open_Links_Guide/10"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = ""
+TOKEN = "8850532765:AAGV4rduU8iDwsmimd2BIcejjLYndwknRxc"
 API_ID = "39020336"
 API_HASH = "b6b6742ac6ad6936dfc88caeac95b7a4"
 WORKERS = 5
